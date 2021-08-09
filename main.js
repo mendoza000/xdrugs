@@ -1,4 +1,4 @@
-import './src/css/normalize.css'
+/*import './src/css/normalize.css'*/
 import './style.css'
 
 import { menuEvent } from './src/js/helpers/menu-events' 
